@@ -10,3 +10,5 @@ The cloud resume challenge helped me to get more hands on experience with AWS se
 **DynamoDB/Lambda** - Created a table in DynamoDB to record the view count and wrote a Lambda function in python to call from/update the table.
 
 **JavaScript/Git** - Wrote a few lines of JavaScript to display the updated view count pulled from the Lambda API, connected frontend to GitHub repository for source control.
+
+My portfolo website is currently down to stop incurring costs. Thank you :)
